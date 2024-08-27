@@ -2,9 +2,9 @@
 
 🚀 **About Me**
 
-👨‍💻 I am Minel Salihagić, a motivated final-year software engineering student with a passion for programming and software development. I am eager to learn new technologies and solve challenging problems. Currently seeking an internship opportunity to apply my knowledge and enhance my skills.
+👨‍💻 I am Minel Salihagić, a motivated final-year software engineering student with a passion for programming and software development. I am eager to learn new technologies and solve challenging problems.
 
-🎓 I am pursuing a Bachelor in Software Engineering at the Prirodno-matematički fakultet, Univerzitet u Sarajevu. My experience includes working with STM32 microcontrollers, developing firmware, and writing detailed technical specifications.
+🎓 I am pursuing a Bachelor in Software Engineering at the Faculty of Natural Sciences and Mathematics, University in Sarajevo. My experience includes working with STM32 microcontrollers, developing firmware, and writing detailed technical specifications.
 
 🌟 **Professional Experience**
 
@@ -44,8 +44,8 @@ June 2024 - August 2024
 
 🌐 **Links**
 
-- [Portfolio](http://www.minelsalihagic.com)
-- [LinkedIn](https://www.linkedin.com/in/minel-salihagic)
+- [Portfolio](http://minelsalihagic.com)
+- [LinkedIn](https://linkedin.com/in/minel-salihagić-9ba401300/)
 - [GitHub](https://github.com/minel1410)
 - [Email](mailto:minelsalihagic@gmail.com)
 
@@ -53,6 +53,3 @@ June 2024 - August 2024
 
 ![Minel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minel1410&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
----
-
-Feel free to customize this further to fit your style or add any additional information!
